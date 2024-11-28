@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1732568893 source:c:\users\hp\desktop\projet c++\gestiondeconact\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<fstream>
+	<string>
+
